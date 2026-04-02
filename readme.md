@@ -1,14 +1,14 @@
-3. Novo Foco: Chamada e Atas:
+#Novo Foco: Chamada e Atas:
 
 
-Problema: tempo perdido, erros e possibilidade de fraude.
+- Problema: tempo perdido, erros e possibilidade de fraude.
 
-Solução: registro imutável com timestamp e assinatura digital.
+- Solução: registro imutável com timestamp e assinatura digital.
 
-Diferencial: prova criptográfica de presença.
+- Diferencial: prova criptográfica de presença.
 
 
-Primeiros passos:
+#Primeiros passos:
 
 1. só será possível registrar uma única vez, então muito cuidado nessa parte
 
