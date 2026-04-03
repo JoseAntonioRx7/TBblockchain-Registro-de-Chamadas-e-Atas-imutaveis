@@ -18,7 +18,9 @@
 
 4. sera praticamente nulo as chances de manipulações e fraudes.
 
-5. exemplo do painel:
+5. um raio de diametro e apenas quem estiver dentro desse raio podera registrar.
+
+6. exemplo do painel:
 
 >Nome:
 
